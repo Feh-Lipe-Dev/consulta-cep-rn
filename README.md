@@ -13,6 +13,9 @@ Criar uma aplicação com Rect Native simples e funcional com chamada de API
 - funções assíncronas 
 - estilização via objetos JS
 
+### POSTAGEM DO PROJETO
+[Link para o post](https://www.linkedin.com/posts/feh-lipe-dev_projetinho-para-come%C3%A7ar-no-react-native-com-activity-7242499747578626048-El_-?utm_source=share&utm_medium=member_desktop)
+
 ## TECNOLOGIAS USADAS
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
